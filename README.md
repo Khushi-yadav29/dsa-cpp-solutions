@@ -1,2 +1,5 @@
 # dsa-cpp-solutions
-My complete collection of Data Structures and Algorithms (DSA) solutions in C++, categorized by topic and LeetCode problems
+Topics : Arrays, Two Pointer, String, Linklist, Binary Search, Trees and Graph, Stack and Queue, Recursion 
+Algorithm : linear search, Two-pointer approach, Brute-force approach, Kadane's Algorithm
+Solving Leetcode problems 
+Language - cpp
